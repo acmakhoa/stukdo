@@ -38,6 +38,7 @@ gem "therubyracer"
 
 gem 'twitter-bootstrap-rails'
 gem "font-awesome-rails"
+gem "simple_form"
 
 group :development, :test do
   # Call 'debugger' anywhere in the code to stop execution and get a debugger console
